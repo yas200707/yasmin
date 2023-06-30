@@ -1,0 +1,7 @@
+header {
+background-color: #383d58;
+color: white}
+
+{margin:0;padding:0;}
+.cabecalho{backgroud-color: #383d58;color: white;display:flex;judtify-content: space-around;padding: 24px 0;}
+.cabacalho-lista-intem{display: inline-block;margim: 0 16px;font-size: 24px;}
