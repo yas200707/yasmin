@@ -1,7 +1,32 @@
-header {
-background-color: #383d58;
-color: white}
+{margin:0;
+    padding:0;}
+    .cabecalho{background-color: rgb(255, 123, 0);
+     color: rgb(255, 255, 255);
+     display:flex;
+     justify-content:space-around;
+     padding:24px 0;}
+     .cabecalho-lista-item{
+        display:inline-block;
+        margin: 0 16px;
+        padding: 24px 0;
+        font-size: 24px;
+     }
 
-{margin:0;padding:0;}
-.cabecalho{backgroud-color: #383d58;color: white;display:flex;judtify-content: space-around;padding: 24px 0;}
-.cabacalho-lista-intem{display: inline-block;margim: 0 16px;font-size: 24px;}
+     .escola { 
+      background-image: -moz-linear-gradient(#383D58);
+      color: white;
+      display: flex;
+     }
+     .escola-conteudo{ 
+      width: : 35%;
+      display:flex;
+      justify-content: center;
+      align-items:center;
+     }
+     .escola-imagem{ 
+      widt: 25%;
+     }
+     .escola-titulo{
+      padding: : 24px 0;
+     }
+   
